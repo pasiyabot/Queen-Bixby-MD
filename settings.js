@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
+global.owner = ['94721568805']
+global.premium = ['94721568805']
+global.ownernomer = '94721568805'
+global.ownername = '🦁╚VP-Dark Loin╝🦁'
+global.botname = '🦁Dark Loin🦁'
+global.footer = ' 🦁ᴠᴘ-ᴅᴀʀᴋ ʟᴏɪɴ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ🦁.'
+global.ATHAL LINK= 'දැන් සැපද ..🤣'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.🥔╱🧄 = 'අල ලුණු එහෙම කියත 🤣..
+global.mygroup = 'https://chat.whatsapp.com/HpwtSrIPa3hH9QLRCPyMCN'
+global.packname = '🦁𝚅𝙿-𝚍𝚊𝚛𝚔 𝚕𝚘𝚒𝚗🦁'
+global.author = '𝙿𝙰𝚂𝙸𝚈𝙰 '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '🚢'
+global.prefa = ['','!','.','🐤','🐧','🗿']
+global.sp = '🦁'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Please Wait...',
+    admin: 'This Feature Is Only For Admin!🥳',
+    botAdmin: 'Bot Must Be Admin First!🐧',
+    owner: 'This Feature Is Only For Owner🐣!',
+    group: 'Feature Used Only For Groups🐔!',
+    private: 'Features Used Only For Private Chat🌹!',
+    bot: 'This Feature Is Only For Bot🕊️',
+    wait: '😉Please Wait...🪄',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
